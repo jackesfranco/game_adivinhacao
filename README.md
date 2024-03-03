@@ -1,5 +1,5 @@
 # Projeto de um jogo de adivinhação
-Neste projeto eu utilizo o Python para criar um jogo de adivinhação, onde podemos escolher o nível de dificuldade do jogo, sendo dividido entre nível fácil(5 números), médio(10 números e difícil(15 números).
+Neste projeto eu utilizo o Python para criar um jogo de adivinhação, onde podemos escolher o nível de dificuldade do jogo, sendo dividido entre: fácil(5 números), médio(10 números) e difícil(15 números).
 
 <br/>
 
